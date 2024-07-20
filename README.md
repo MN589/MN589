@@ -1,3 +1,5 @@
+
+### Hi I'm Mohamed Nuri!
 # 💫 About Me:
 💼 Profession:Data Analyst<br>🎓 Education: MSc Project Management & BEng Civil Engineering, Data Analysis Bootcamp<br>🌱 I’m currently learning  Machine Learning and using data to solve real-world business problems<br>💬 Ask me about Data analysis, visualization techniques, and statistical modeling
 
